@@ -15,8 +15,8 @@ const AboutSection = () => {
         <div className="grid md:grid-cols-2 gap-8">
           <AnimatedSection delay={100}>
             <p className="text-muted-foreground leading-relaxed mb-6">
-              I'm a final-year Software Engineering student at Babcock University, 
-              graduating July 2026 with a <span className="text-foreground font-medium">First Class standing (GPA 4.52)</span>. 
+              I'm a Software Engineering graduate from Babcock University, 
+              bagging a <span className="text-foreground font-medium">First Class standing (GPA 4.51)</span>. 
               I'm passionate about backend development, Python, and AI/ML systems.
             </p>
             <p className="text-muted-foreground leading-relaxed">
